@@ -1,3 +1,3 @@
 # SampleViaCep
-Exemplo de consumo de serviço ViaCep
-Utiliza https://viacep.com.br/
+Exemplo de consumo de serviço ViaCep.
+Utiliza: https://viacep.com.br/
